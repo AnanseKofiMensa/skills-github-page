@@ -1,0 +1,42 @@
+theme: minima
+## Skills
+
+### Technical Skills
+
+* **Programming Languages:** Python, JavaScript, TypeScript, SQL
+* **Front-End Technologies:** HTML, CSS, React, Angular, Vue.js
+* **Back-End Technologies:** Node.js, Django, Flask, Express.js
+* **Database Systems:** MySQL, PostgreSQL, MongoDB
+* **Cloud Platforms:** AWS, GCP, Azure
+* **Version Control:** Git
+
+### Cybersecurity Skills
+
+* **Network Security:** Firewall configuration, intrusion detection systems, vulnerability scanning
+* **Application Security:** Secure coding practices, penetration testing, web application firewalls
+* **Incident Response:** Incident handling, digital forensics, threat intelligence
+* **Cryptography:** Encryption algorithms, digital signatures, key management
+
+### Soft Skills
+* Problem-solving
+* Critical thinking
+* Communication
+* Teamwork
+* Time management
+* Adaptability
+
+**Note:** Feel free to adjust this list to reflect your specific skills and experience. You can also add sections for specific tools, frameworks, or methodologies you're proficient in.
+ 
+**To incorporate this into your GitHub Pages site, create a new file named `skills.md` in your `_posts` directory.** 
+
+This will automatically generate a blog post on your site with the title "Skills." You can customize the front matter of the file to adjust the post's date, category, and other metadata.
+
+**Here's an example of the front matter:**
+
+```markdown
+---
+layout: post
+title:  Skills
+date:   2023-11-22 12:00:00 -0500
+categories: skills
+---

@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "AI Dev Space",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
